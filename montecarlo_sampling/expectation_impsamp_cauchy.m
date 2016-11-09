@@ -9,7 +9,6 @@ for i=1:n
   wvec(i)=w;
   xvec(i)=x;
 end;
-[sum(wvec),xvec*wvec']
+%[sum(wvec),xvec*wvec']
 m = (xvec*wvec')/sum(wvec);
-m
 end;
