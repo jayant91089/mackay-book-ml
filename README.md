@@ -1,4 +1,4 @@
-## **Below are several example usages of code in this repository and the plots generated using them (under construction) ** ##
+## **Below are several example usages of the code in this repository and the plots generated using it (under construction) ** ##
 
 
 Metropolis-Hastings Method
