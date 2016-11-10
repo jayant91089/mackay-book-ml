@@ -1,5 +1,5 @@
-## **Below are several example usages of the code in this repository and the plots generated using it (under construction) ** ##
-
+## **Below are several example usages of  the code in this repository and the plots generated using it (under construction) ** ##
+(Note: If you want the inline math to render properly, please add the following chrome extension [Github with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima). Alternatively, if your raw-latex-reading skills are at ninja level, you may ignore this.)
 
 Metropolis-Hastings Method
 --------------------------
